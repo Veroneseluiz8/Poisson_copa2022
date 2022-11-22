@@ -91,7 +91,6 @@ def Jogo(selecao1, selecao2):
 st.markdown("# 🏆 Copa do Mundo Qatar 2022") 
 
 st.markdown("## ⚽ Probabilidades das Partidas")
-st.markdown("Utilizamos a distribuição de Poisson aplicável a ocorrências de um número de eventos em um intervalo específico.")
 st.markdown('---')
 
 listaselecoes1 = selecoes.index.tolist()  
